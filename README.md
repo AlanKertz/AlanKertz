@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlanKertz
+- 👀 I’m interested in Video Game Design.
+- 🌱 I’m currently learning C# in Unity.
